@@ -1,0 +1,7 @@
+D:\Visual studio 2019\projects\Lab 4\2\2\obj\Debug\2.csprojAssemblyReference.cache
+D:\Visual studio 2019\projects\Lab 4\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+D:\Visual studio 2019\projects\Lab 4\2\2\bin\Debug\2.exe.config
+D:\Visual studio 2019\projects\Lab 4\2\2\bin\Debug\2.exe
+D:\Visual studio 2019\projects\Lab 4\2\2\bin\Debug\2.pdb
+D:\Visual studio 2019\projects\Lab 4\2\2\obj\Debug\2.exe
+D:\Visual studio 2019\projects\Lab 4\2\2\obj\Debug\2.pdb
